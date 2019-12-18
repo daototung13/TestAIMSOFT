@@ -1,0 +1,36 @@
+{
+  "get_provinces": [
+    {
+      "id": "hanoi",
+      "name": "Hà Nội"
+    },
+    {
+      "id": "haiduong",
+      "name": "Hải Dương"
+    },
+    {
+      "name": "âs",
+      "id": "KHaJlIK"
+    }
+  ],
+  "population": [
+    {
+      "population": 1000
+    }
+  ],
+  "get_districts": [
+    {
+      "id": "caugiay",
+      "name": "Cầu Giấy"
+    },
+    {
+      "id": "hadong",
+      "name": "Hà Đông"
+    }
+  ],
+  "district_population": [
+    {
+      "population": 1000
+    }
+  ]
+}
